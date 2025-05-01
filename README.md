@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Julia Maia 😘
+## Bem-vindo(a) ao perfil da Júlia Brambatti 😘
 
  <div>
    <a href="https://github.com/julia-maia">
