@@ -1,9 +1,7 @@
-## Bem-vindo(a) ao perfil da Júlia Brambatti 😘
+## Bem-vindo(a) ao perfil da Júlia 😘
 
  <div>
    <a href="https://github.com/julia-maia">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julia-maia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-maia&layout=compact&langs_count=6&theme=dark"/>
 </div>
     
 <div style="display: inline_block"><br>
